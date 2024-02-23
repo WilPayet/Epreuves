@@ -30,4 +30,4 @@ else:
         else:
             print("Erreur: veuillez utiliser des chiffres")
     else:
-        print('Erreur: veuillez utiliser le format 00:00AM/PM')
+        print('Erreur: veuillez utiliser des chiffres')
