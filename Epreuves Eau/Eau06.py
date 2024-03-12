@@ -7,7 +7,7 @@ if len(argument) < 2:
     exit()
 
 for char in argument:
-    if char.isdigit():
+    if char.isnumeric():
         print('Error')
         exit()
 
